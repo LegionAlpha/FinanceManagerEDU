@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FinanceManager</string>
+    <string name="total_balance">Total balance: %1$.2f ₽</string>
+    <string name="add_transaction">Add transaction</string>
+    <string name="transaction_type">Transaction type: %1$s</string>
+    <string name="add_income">Add income</string>
+    <string name="add_expense">Add expense</string>
+    <string name="title">Title:</string>
+    <string name="amount">Amount:</string>
+    <string name="title_hint">...</string>
+    <string name="amount_hint">1337 ₽</string>
+    <string name="create">Create</string>
+</resources>
